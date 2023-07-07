@@ -23,7 +23,7 @@ bigimg: /img/QuestFlow.png
         height: 100%;
     }
 </style>
-<center>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 인터랙티브 게임을 제작할 수 있는 노코딩 서비스입니다.</center>
+<center>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 인터랙티브 게임을 제작할 수 있는 노코딩 서비스입니다.t3</center>
 
 <br />
 <hr />
