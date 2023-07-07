@@ -1,7 +1,8 @@
 ﻿---
 layout: page
-title: T4Framework
-subtitle: We design, Virtual Flow
+title: T4Framework.AI
+subtitle: Imagine as word, Create as world
+
 ---
 <style>
     .embed-container {
@@ -22,7 +23,9 @@ subtitle: We design, Virtual Flow
     }
 </style>
 <hr />
-<center><h2>우리는 "가상의 흐름(Virtual Flow)"을 설계합니다</h2></center>
+<center><h3>T4Framework.AI는 웹 베이스Text to Game으로<br>
+AI와 함께 손쉽게 3D 콘텐츠를 제작할 수 있는 노코딩 서비스를 제공합니다.
+</h3></center>
 <hr />
 <center><br /><h4>버추얼플로우는 언리얼 엔진과 생성형 AI로</h4></center>
 <center><h4>누구나 쉽게 3D 인터랙티브 콘텐츠를 제작할 수 있는 솔루션을 개발하고 있습니다.<br /><br /></h4></center>
