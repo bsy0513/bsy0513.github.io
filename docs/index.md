@@ -2,6 +2,7 @@
 layout: page
 title: T4Framework.AI
 subtitle: Imagine as word, Create as world
+bigimg: /img/New_T4Framework_Title.png
 
 ---
 <style>
@@ -22,9 +23,8 @@ subtitle: Imagine as word, Create as world
         height: 100%;
     }
 </style>
-<center>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 인터랙티브 게임을 제작할 수 있는 노코딩 서비스입니다.</center>
+<center>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 인터랙티브 게임을 제작할 수 있는 노코딩 서비스입니다. test3</center>
 
-<br />
 <br />
 <hr />
 <center><h2>T4Framework.AI 알아보기</h2></center>
@@ -33,7 +33,7 @@ subtitle: Imagine as word, Create as world
 <center><br /><h4>생성형 AI의 도움을 받아 텍스트 입력만으로</h4></center>
 <center><h4>나만의 게임을 손쉽게 만들고 경험해볼 수 있습니다.<br /><br /></h4></center>
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/q3cdVJblMxk" frameborder="0"></iframe></div>
-<center><h5>T4Framework<br>Text to Game</h5></center>
+<center><h5>T4Framework - Text to Game</h5></center>
 
 <br />
 <br />
