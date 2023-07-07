@@ -29,25 +29,26 @@ subtitle: Imagine as word, Create as world
 <br />
 <hr />
 <center><h2>T4Framework.AI 알아보기</h2></center>
-<hr />
 
 <center><br /><h4>생성형 AI의 도움을 받아 텍스트 입력 만으로</h4></center>
 <center><h4>나만의 게임을 손쉽게 만들고 경험해볼 수 있습니다.<br /><br /></h4></center>
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/q3cdVJblMxk" frameborder="0"></iframe></div>
 <center><h5>Integrate ChatGPT</h5></center>
+<hr />
 
 <br />
 <br />
 <br />
 <hr />
 <center><h2>나만의 게임을 공유해보세요.</h2></center>
-<hr />
 
+<br />
 <center><h4>클릭 한번으로 제작한 게임을 웹과 앱으로 소장할 수 있습니다.</h4></center>
 <br /><br />
 
 <center>
     <center><img src="./img/Web_GooglePlay_Logo.png"></center>
+	<hr />
     <br />
 <br />
 <center><h1>8월 말 웹서비스 오픈 예정</h1></center>
