@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    {% include nav.html %}
-    {% include header.html %}
-    {% include t4frameworkinfo.html %}
-    {% include result.html %}
-    {% include commingsoon.html %}
-    {% include footer.html %}
-    {% include js.html %}
-    </body>
-</html>
+---
+layout: base
+---
+
+<div class="intro-header"></div>
+
+<div role="main" class="container">
+  {{ content }}
+</div>

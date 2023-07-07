@@ -1,6 +1,61 @@
-    <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <p>&copy; VirtualFlow, Inc. All Rights Reserved. 20{{ site.time | date: '%y' }}</p>
+﻿<footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            <p></p>
+            <p></p>
+
+            <ul class="list-inline text-center footer-links">
+                {%- for link in site.social-network-links -%}
+                {%- assign curkey = link[0] -%}
+                {%- assign element = site.data.SocialNetworks[curkey] -%}
+                <li>
+                    {%- if curkey == 'rss' -%}
+                    <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}">
+                        {%- elsif curkey == 'yelp' -%}
+                        <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+                            {%- else -%}
+                            <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+                                {%- endif -%}
+                                <span class="fa-stack fa-lg" aria-hidden="true">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                                </span>
+                                <span class="sr-only">{{ element.name }}</span>
+                            </a>
+                </li>
+                {%- endfor -%}
+            </ul>
+
+            <p></p>
+            <p></p>
+            <p></p>
+
+            <center><font color="white">
+            [Head Office] 815, Daewangpangyo-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do, Republic of Korea (Room 414) <br />
+            [R&D] 95, Jeongjail-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea (Naver 1784)
+            </font>
+            </center>
+            
+            <p></p>
+
+            <p class="theme-by text-muted">
+                <b><a href="https://virtualflowinc.com" target=_blank>https://virtualflowinc.com</a></b><br>
+                © VirtualFlow, Inc. All Rights Reserved.
+            </p>
+
+            <p></p>
+            <!-- Please don't remove this, keep my open source work credited :) -->
+            <!--
+            <right>
+                <p class="theme-by text-muted">
+                    Theme by
+                    <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+                </p>
+            </right>
+    -->
         </div>
-    </footer>
+    </div>
+  </div>
+</footer>
