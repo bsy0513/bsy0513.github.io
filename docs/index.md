@@ -22,7 +22,7 @@ subtitle: Imagine as word, Create as world
         height: 100%;
     }
 </style>
-<center>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 3D 콘텐츠를 제작할 수 있는 노코딩 서비스입니다.</center>
+<center>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 인터랙티브 게임을 제작할 수 있는 노코딩 서비스입니다.</center>
 
 <br />
 <br />
@@ -55,12 +55,4 @@ subtitle: Imagine as word, Create as world
 
 <center><br /><h4>클릭 한번으로 제작한 게임을 웹과 앱으로 소장할 수 있습니다.</h4></center>
 <center><img src="./img/Web_GooglePlay_Logo2.png"></center>
-<br />
-
-<br />
-<br />
-<br />
-<center><h1>8월 말 웹서비스 오픈 예정</h1></center>
-<br />
-<br />
 <br />
