@@ -43,7 +43,7 @@ subtitle: Imagine as word, Create as world
 <hr />
 
 <center><br /><h4>클릭 한번으로 제작한 게임을 웹과 앱으로 소장할 수 있습니다.</h4></center>
-<center><img src="./img/Web_GooglePlay_Logo.png"></center>
+<center><br /><img src="./img/Web_GooglePlay_Logo.png"></center>
 <br />
 
 <br />
@@ -53,9 +53,8 @@ subtitle: Imagine as word, Create as world
 <center><h2>나만의 게임을 공유해보세요.</h2></center>
 <hr />
 
-<br />
-<center><h4>클릭 한번으로 제작한 게임을 웹과 앱으로 소장할 수 있습니다.</h4></center>
-<br /><center><img src="./img/Web_GooglePlay_Logo2.png"></center>
+<center><br /><h4>클릭 한번으로 제작한 게임을 웹과 앱으로 소장할 수 있습니다.</h4></center>
+<center><img src="./img/Web_GooglePlay_Logo2.png"></center>
 <br />
 
 <br />
