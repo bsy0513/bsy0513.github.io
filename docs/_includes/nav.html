@@ -14,14 +14,6 @@
             {%- endif -%}
         </div>
         <div class="collapse navbar-collapse" id="main-navbar">
-            <ul class="nav navbar-nav navbar-right">
-                {%- for link in site.navbar-links -%}
-                {%- if link[1].first %}
-                {% else %}
-                <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
-                {%- endif -%}
-                {%- endfor -%}
-            </ul>
         </div>
         {% if page.image and (layout.show-avatar or page.show-avatar) %}
         <div class="avatar-container">
