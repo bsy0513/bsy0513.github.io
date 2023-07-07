@@ -22,7 +22,7 @@ subtitle: Imagine as word, Create as world
         height: 100%;
     }
 </style>
-<center><h3>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 3D 콘텐츠를 제작할 수 있는 노코딩 서비스를 제공합니다.</h3></center>
+<center><h4>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 3D 콘텐츠를 제작할 수 있는 노코딩 서비스를 제공합니다.</h4></center>
 
 <br />
 <hr />
