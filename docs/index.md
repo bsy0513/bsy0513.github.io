@@ -2,6 +2,7 @@
 layout: page
 title: T4Framework.AI
 subtitle: Imagine as word, Create as world
+bigimg: ./img/QuestFlow.png
 
 ---
 <style>
