@@ -22,8 +22,10 @@ subtitle: Imagine as word, Create as world
         height: 100%;
     }
 </style>
-<center><h4>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 3D 콘텐츠를 제작할 수 있는 노코딩 서비스를 제공합니다.</h4></center>
+<center><h2>T4Framework.AI는 웹 베이스 기반의 Text to Game으로<br> AI와 함께 손쉽게 3D 콘텐츠를 제작할 수 있는 노코딩 서비스입니다.</h2></center>
 
+<br />
+<br />
 <br />
 <hr />
 <center><h2>T4Framework.AI 알아보기</h2></center>
@@ -35,15 +37,17 @@ subtitle: Imagine as word, Create as world
 <center><h5>Integrate ChatGPT</h5></center>
 
 <br />
+<br />
+<br />
 <hr />
 <center><h2>나만의 게임을 공유해보세요.</h2></center>
 <hr />
 
 <center>클릭 한번으로 제작한 게임을 웹과 앱으로 소장할 수 있습니다.</center>
-<br /><br /><br />
+<br /><br />
 
 <center>
     <center><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></center>
     <br />
-<center><h2>8월 말 웹서비스 오픈 예정</h2></center>
+<center><h1>8월 말 웹서비스 오픈 예정</h1></center>
 
