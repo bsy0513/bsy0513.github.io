@@ -33,7 +33,7 @@ subtitle: Imagine as word, Create as world
 <center><br /><h4>생성형 AI의 도움을 받아 텍스트 입력만으로</h4></center>
 <center><h4>나만의 게임을 손쉽게 만들고 경험해볼 수 있습니다.<br /><br /></h4></center>
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/q3cdVJblMxk" frameborder="0"></iframe></div>
-<center><h5>Integrate ChatGPT</h5></center>
+<center><h5>T4Framework Text to Game</h5></center>
 
 <br />
 <br />
