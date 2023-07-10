@@ -23,7 +23,7 @@ layout: page
         }
 </style>
 
-<br /><br />
+<br />
 <!-- <hr /> -->
 <center><font size="20px" style="font-weight: 700">" 버추얼플로우 팀을 소개합니다 "</font></center>
 <!-- <hr /> -->
