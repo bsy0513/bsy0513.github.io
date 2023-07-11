@@ -23,7 +23,7 @@ subtitle: 서비스 이용 안내
 </style>
 
 <br /><br />
-<center><font size="10px" style="font-weight: 700">" T4Framework.AI를 시작하세요 "</font></center>
+<center><font size="10px" style="font-weight: 700">" 지금, 프로젝트를 시작하세요 "</font></center>
 <!-- <center><h2>지금 바로, 프로젝트를 시작할 수 있습니다</h2></center> -->
 
 <center>
@@ -47,8 +47,8 @@ T4Framework.AI 서비스는 언리얼 엔진 5와 Chat GPT를 활용한 <br /> 3
         <div class=" col ">
         
 
-    <div id="plans-container" class="container">
-    <div class="row no-gutters">
+        <div id="plans-container" class="container">
+        <div class="row no-gutters">
 
         <div class="col-sm-6 col-lg-3">
         <div class="plan-card">
