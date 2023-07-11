@@ -5,7 +5,6 @@ subtitle: 크리에이터를 위한 고품질 3D 콘텐츠 제작을 지원합�
 ---
 
 <br /><br />
-<br /><br />
 <!-- <hr /> -->
 <center><font size="20px" style="font-weight: 700">" Mission "</font></center>
 <!-- <h2><center>- Mission -</center></h2> -->
@@ -27,13 +26,9 @@ subtitle: 크리에이터를 위한 고품질 3D 콘텐츠 제작을 지원합�
 </center>
 
 <br /><br />
-<br /><br />
-<br /><br />
 
 <hr />
 
-<br /><br />
-<br /><br />
 <br /><br />
 
 <center>
@@ -45,19 +40,16 @@ subtitle: 크리에이터를 위한 고품질 3D 콘텐츠 제작을 지원합�
     <center><a href="https://t4framework.com" target="_blank"><b>t4framework.com</b></a></center>
 </center>
 <br /><br />
-<br /><br />
-<br /><br />
 
 <hr />
 
-<br /><br />
-<br /><br />
 <br /><br />
 <center>
     <center><font size="20px" style="font-weight: 700">" News "</font></center>
     <!-- <h2><center>- News -<br><br></center></h2> -->
 
-    <br /><br /><br />
+    <br /><br />
+    <br /><br />
     <center><img src="https://virtualflowinc.com/img/Tips-Logo.png" height="80"> &nbsp; <img src="https://virtualflowinc.com/img/KB_Investment_2.png" width="120"><br><br></center>
 
     <center>
@@ -79,6 +71,4 @@ subtitle: 크리에이터를 위한 고품질 3D 콘텐츠 제작을 지원합�
         <a href="https://www.hankyung.com/it/article/202007271619v" target="_blank">hankyung.com/it/article/202007271619v</a><br><br><br>
     </center>
 </center>
-<br /><br />
-<br /><br />
 <br /><br />
