@@ -1,68 +1,84 @@
 ---
 layout: page
-# title: T4Framework.AI
-# subtitle: Imagine as word, Create as world
-# cover-img: ["/img/QuestFlow3.png", "/img/QuestFlow.png"]
+title: VirtualFlow
+subtitle: 크리에이터를 위한 고품질 3D 콘텐츠 제작을 지원합니다.
 ---
-<style>
-    .embed-container {
-        position: relative;
-        padding-bottom: 56.25%;
-        height: 0;
-        overflow: hidden;
-        max-width: 100%;
-    }
 
-        .embed-container iframe, .embed-container object, .embed-container embed {
-            position: absolute;
-            top: 1%;
-            down: 1%;
-            left: 0%;
-            width: 100%;
-            height: 100%;
-        }
-</style>
-
-<br />
+<br /><br />
+<br /><br />
 <!-- <hr /> -->
-<center><font size="20px" style="font-weight: 700">" 버추얼플로우 팀을 소개합니다 "</font></center>
-<!-- <hr /> -->
-
-<br />
-버추얼플로우 엔지니어 팀은 국내외 메이저 게임 개발사에서 대형 MMORPG 를 개발했던 10년 이상의 게임 엔진 및 서버, 플랫폼 개발자로 구성되어 있습니다.<br /> <br />
-다양한 게임 제작 노하우를 기반으로 제작된 T4Framework 는 2020년, 언리얼 엔진 개발사인 에픽게임즈로부터 툴 부분 <b style="font-weight: 900; font-size: x-large; color:#355492">"에픽 메가그랜트"</b>를 수상하였습니다.
-
-<!-- <br /> -->
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/q3cdVJblMxk" frameborder="0"></iframe></div>
-<center><b style="font-weight: 900;"><br />T4Framework - Intergrate ChatGPT</b><br>-</center>
-<br />
+<center><font size="20px" style="font-weight: 700">" Mission "</font></center>
+<!-- <h2><center>- Mission -</center></h2> -->
 
 <center>
-    <center><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"> &nbsp; &nbsp; &nbsp; <img src="https://t4framework.com/img/UnrealEngineLogo.png" width="95"></center>
-    <br />
-    Awarded "Epic MegaGrant" from Epic Games Inc<br />
-    <a href="https://www.unrealengine.com/en-US/megagrants" target="_blank"><b>unrealengine.com/megagrants</b></a>
+    <br><br />
+    버추얼플로우는 차세대 그래픽 엔진 기술을 통해 누구나 쉽고 빠르게 
+    <br>
+    <b style="font-weight: 900; font-size: x-large; color:#355492">고품질의 3D 콘텐츠를 제작할 수 있는 최적의 솔루션을 제공</b>합니다.
+    <br>
+    <br>
 
-    <br /><br />
-    .
-    <br /><br />
+    우리는 원하는 모두가 기술적 장벽 없이 다양한 콘텐츠의 개발에 자유롭게 참여하여
+    
+    <br>
 
-    <img src="https://t4framework.com/img/NAVER_Cloud_Corp_____Logotype_Gradient.png" width="245">
-    <br /><br />
-    NAVER Cloud "METAPOT" Solution Parner
-    <br />
-    <a href="https://www.ncloud.com/solution/industry/metaverse" target="_blank"><b>ncloud.com/solution/metaverse</b><br></a>
-</center><br />
+    현실과 가상 세계의 경계를 잇는 디지털 크리에이터가 될 수 있는 미래를 만들고자 합니다.
+    
+</center>
+
 <br /><br />
+<br /><br />
+<br /><br />
+
 <hr />
 
 <br /><br />
-<center><font size="20px" style="font-weight: 700">" 버추얼플로우 소식 "</font></center>
+<br /><br />
 <br /><br />
 
-<center>[2021.10.26] thebell.co.kr/free/content/...</center>
-<center>VirtualFlow Selected for the TIPS funding from the Ministry of SMEs and Startups</center>
-<center>- KB Investment recommends -</center>
+<center>
+    <center><font size="20px" style="font-weight: 700">" Product "</font></center>
+    <!-- <h2><center>- Product -<br><br></center></h2> -->
 
+    <center><br /><br />언리얼 엔진을 활용한 고품질의 리얼타임 3D 콘텐츠 제작 솔루션<br /></center>
+
+    <center><a href="https://t4framework.com" target="_blank"><b>t4framework.com</b></a></center>
+</center>
+<br /><br />
+<br /><br />
+<br /><br />
+
+<hr />
+
+<br /><br />
+<br /><br />
+<br /><br />
+<center>
+    <center><font size="20px" style="font-weight: 700">" News "</font></center>
+    <!-- <h2><center>- News -<br><br></center></h2> -->
+
+    <br /><br /><br />
+    <center><img src="https://virtualflowinc.com/img/Tips-Logo.png" height="80"> &nbsp; <img src="https://virtualflowinc.com/img/KB_Investment_2.png" width="120"><br><br></center>
+
+    <center>
+        <br /><b>[2021.10.26] 버추얼플로우, 중기부 팁스 선정…KB인베스트먼트 추천 (TIPS)</b><br />
+        <a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202110251425440920105282" target="_blank">thebell.co.kr/free/content/...</a><br><br>
+    </center>
+
+    <br /><br />
+    <center><img src="https://virtualflowinc.com/img/d2sf_naver.png" height="80"><br><br></center>
+    <center>
+        <br /><b>[2021.07.20] 버추얼플로우, 코딩 없이 쉽게 만드는 고퀄 메타버스 (NAVER D2SF)</b><br />
+        <a href="http://www.d2startup.com/story/231" target="_blank">d2startup.com/story/231</a><br><br>
+    </center>
+
+    <br /><br />
+    <center><img src="https://virtualflowinc.com/img/Epic_MegaGrants_Recipient_logo.png" height="80"><br><br></center>
+    <center>
+        <br /><b>[2020.07.27] T4Framework 에픽 메가그랜트 수상 (Epic Games)</b><br />
+        <a href="https://www.hankyung.com/it/article/202007271619v" target="_blank">hankyung.com/it/article/202007271619v</a><br><br><br>
+    </center>
+</center>
+<br /><br />
 <br /><br />
 <br /><br />
