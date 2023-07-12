@@ -22,8 +22,8 @@ author: VirtualFlow
 navbar-links:
   Home: "index"  
   Company: "#Campany"
-  History: "Features"
-  Collaboration: "Projects"
+  History: "History"
+  Collaboration: "Collaboration"
   # Showcase: "Showcase"
 
 ################
@@ -130,8 +130,8 @@ navbar-var-length: false
 navbar-col: "#101010"
 navbar-text-col: "#F5F5F5"
 navbar-border-col: "#DDDDDD"
-page-col: "#F5F5F5"
-text-col: "#404040"
+page-col: "#1D1D1D"
+text-col: "#DADADA"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#101010"
