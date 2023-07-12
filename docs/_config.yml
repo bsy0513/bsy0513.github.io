@@ -21,11 +21,10 @@ author: VirtualFlow
 
 navbar-links:
   Home: "index"  
-  Company: "Company"
-  Pricing: "Pricing_new"
-  Features: "Features"
-  Projects: "Projects"
-  Showcase: "Showcase"
+  Company: "#Campany"
+  History: "Features"
+  Collaboration: "Projects"
+  # Showcase: "Showcase"
 
 ################
 # --- Logo --- #
@@ -131,7 +130,7 @@ navbar-var-length: false
 navbar-col: "#101010"
 navbar-text-col: "#F5F5F5"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#F5F5F5"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"

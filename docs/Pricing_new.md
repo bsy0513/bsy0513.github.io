@@ -31,24 +31,21 @@ subtitle: 서비스 이용 안내
 T4Framework.AI 서비스는 언리얼 엔진 5와 Chat GPT를 활용한 <br /> 3D 콘텐츠 제작 기능을 지원하고 있습니다. <br /><br />
 서비스를 이용하기 위해서는 멤버쉽 구독을 신청하여야 하며 요금은 아래와 같습니다.<br />
 </center>
-<br /><br />
+<br />
 
 <hr />
 
-<br /><br />
+<br />
 <center>
 <center><h2><font style="font-weight: 700; font-size: xx-large;">- 개인 -</font></h2></center>
-<br />
+<br /><br /><br />
 </center>
 
 <div class=" container-fluid " role="main">
     <div class="row">
-        <div class=" col ">
-        
-
+        <div class=" col ">        
         <div id="plans-container" class="container">
         <div class="row no-gutters">
-
         <div class="col">
         <div class="plan-card" align = center>
             <div class="plan-name"><b style="font-weight: 400; font-size: xx-large;">Education</b></div>
@@ -56,45 +53,42 @@ T4Framework.AI 서비스는 언리얼 엔진 5와 Chat GPT를 활용한 <br /> 3
             <div class="dollarsign">₩ 
             <b style="font-weight: 700; font-size: xx-large; color:#355492">9,900</b></div>
             <div class="permonth">/month</div>
-            </div>
+        </div>
             <hr>
             <div class="plan-benefits">
-            <div class="plan-benefit">Warm fuzzy feeling knowing you're supporting open source</div>
-            <div class="plan-benefit">Remove Beautiful Jekyll ads</div>
-            <div class="plan-benefit">Showcased as a <a href="https://beautifuljekyll.com/examples/">Featured User</a></div>
-            <div class="plan-benefit">"Thank you" shout out on social media</div>
-            <div class="plan-benefit"><strong>Access to Dark Mode skin</strong></div>
-            <div class="plan-benefit">Listed as an <a href="https://github.com/daattali/beautiful-jekyll#sponsors">Official Sponsor</a></div>
-            <div class="plan-benefit"><strong>Access to <a href="https://beautifuljekyll.com/officehours/">virtual office hours</a></strong></div>
-            </div><br />
+            <div class="plan-benefit">Per-Seat</div><br />
+            <div class="plan-benefit">서버 솔루션 미지원</div><br />
+            <div class="plan-benefit">무상 교육 지원 (2회)</div><br />
+            <div class="plan-benefit">기술 지원 추가 요금</div><br />
+            <div class="plan-benefit">MS Windows 외 추가 요금 (+VR +Mobile)</div>
+            </div><br /><br />
             <a class="btn btn-primary plan-select" href="https://github.com/sponsors/daattali/sponsorships?tier_id=39856">Select</a>
         </div>
         </div>
-
         <div class="col">
         <div class="plan-card recommended" align = center>
-   <div class="plan-name"><b style="font-weight: 400; font-size: xx-large;">Standard</b></div>
+            <div class="plan-name"><b style="font-weight: 400; font-size: xx-large;">Standard</b></div>
             <div class="plan-price">
             <div class="dollarsign">₩ 
             <b style="font-weight: 700; font-size: xx-large; color:#355492">33,000</b></div>
             <div class="permonth">/month</div>
-            </div>
+        </div>
             <hr>
             <div class="plan-benefits">
-            <div class="plan-benefit">Warm fuzzy feeling knowing you're supporting open source</div>
-            <div class="plan-benefit"><strong>Remove Beautiful Jekyll ads</strong></div>
-            <div class="plan-benefit">Showcased as a <a href="https://beautifuljekyll.com/examples">Featured User</a></div>
-            <div class="plan-benefit">"Thank you" shout out on social media</div>
-            <div class="plan-disbenefit">No support offered</div>
+               <div class="plan-benefit">Per-Seat</div><br />
+            <div class="plan-benefit">서버 솔루션 미지원</div><br />
+            <div class="plan-benefit">무상 교육 지원 (2회)</div><br />
+            <div class="plan-benefit">기술 지원 추가 요금</div><br />
+            <div class="plan-benefit">MS Windows 외 추가 요금 (+VR +Mobile)</div>
             </div> <br /><br />
             <a class="btn btn-primary plan-select" href="https://github.com/sponsors/daattali/sponsorships?tier_id=7362">Select</a>
         </div>
         </div>
     </div>
     </div>
-        </div>
     </div>
     </div>
+</div>
 
 
 <br /><br />
