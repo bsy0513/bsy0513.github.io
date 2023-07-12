@@ -93,7 +93,7 @@ subtitle: Our History with T4Framework
 <br /><br />
 <br /><br />
 
-<hr />
+<hr style="background-color:#353535">
 
 <br />
 <br /><br />
